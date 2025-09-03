@@ -265,4 +265,5 @@ Se quiser, eu já **colo agora**:
 - a **célula de SHAP** (global/local),
 - e a **célula de persistência + função `score()`** para produção.
 #   c r e d i t - r i s k  
+ #   c r e d i t - r i s k  
  
